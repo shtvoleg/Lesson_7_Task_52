@@ -14,7 +14,7 @@ int[,] FillArray(int[,] matr, int lBound, int hBound)
     return matr;
 }
 
-// Функция WorkArray ищет среднее арифметическое по столбцам
+// Функция AverageColumnArray ищет среднее арифметическое по столбцам
 void AverageColumnArray(int[,] matr)
 {
     Console.WriteLine("Среднее арифметическое:");
